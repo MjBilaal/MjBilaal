@@ -6,7 +6,7 @@
 - **Expérience dev :** stage développeur web full-stack, Mission Locale du Douaisis (mars-mai 2025)
 - **En parallèle des études :** conseiller de vente chez Leroy Merlin (groupe ADEO) depuis 2022
 
-## 🎯 Ce que je cherche
+## Ce que je cherche
 
 - Stage de **20 semaines** à partir de **mars 2027**
 - En **cybersécurité** : sécurité des systèmes ou développement
@@ -34,13 +34,13 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
 
-## 📌 Projets
+## Projets
 
 - **[rag-cyber-mitre-nvd](https://github.com/MjBilaal/rag-cyber-mitre-nvd)** : système RAG appliqué à la cybersécurité (MITRE ATT&CK et CVE du NVD), avec index FAISS, embeddings sentence-transformers, génération via Ollama/Mistral et interfaces Streamlit.
 - **[secure-radio-aes](https://github.com/MjBilaal/secure-radio-aes)** : communication radio sécurisée sur Arduino, avec chiffrement AES et mécanisme anti-jamming.
 - **[mem-forensics-volatility](https://github.com/MjBilaal/mem-forensics-volatility)** : analyse forensique de mémoire avec Volatility, scripts PowerShell/Bash et règles YARA.
 
-## 📫 Contact
+## Contact
 
 - LinkedIn : [linkedin.com/in/bilalmedj](https://www.linkedin.com/in/bilalmedj)
 - Site : [bilalmedj.com](https://bilalmedj.com)
